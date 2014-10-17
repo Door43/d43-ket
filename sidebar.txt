@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ket:home|Door43 (ket)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ket|d43-ket repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ket/archive/master.zip|d43-ket.zip]]
+
+**Recent Changes**
+{{changes>ns = ket}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ket|Ethnologue data]]
+
